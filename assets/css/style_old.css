@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background: #f5f5f5;
+  color: #222;
+  padding: 2rem;
+}
+
+/* court cards */
+
+.court-card {
+  background: white;
+  border-radius: 1rem;
+  overflow: hidden;
+
+  display: flex;
+  flex-direction: column;
+
+  max-width: 900px;
+  margin-inline: auto;
+
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.card-content {
+  padding: 2rem;
+}
+
+.card-content h2 {
+  margin-bottom: 0.5rem;
+}
+
+.location,
+.postcode {
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.court-details {
+  list-style: none;
+
+  margin: 1.5rem 0;
+
+  display: grid;
+  gap: 0.5rem;
+}
+
+.description {
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+/* end of court cards */
+
+/* images */
+.card-image img {
+  display: block;
+
+  width: 100%;
+  height: 260px;
+
+  object-fit: cover;
+}
+/* end of images */
+
+/* button */
+.button {
+  display: inline-block;
+
+  padding: 0.8rem 1.5rem;
+
+  text-decoration: none;
+
+  background: #222;
+  color: white;
+
+  border-radius: 0.5rem;
+}
+/* end of button */
+
+/* desktop media queries */
+
+@media (min-width: 768px) {
+  .court-card {
+    flex-direction: row;
+  }
+
+  .card-image,
+  .card-content {
+    flex: 1;
+  }
+
+  .card-image img {
+    height: 100%;
+  }
+}
+
+/* end of desktop media queries */

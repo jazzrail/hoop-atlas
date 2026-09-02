@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hoopp Atlas Working</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <p class="hero__eyebrow">Neighbourhood streetball</p>
+        <h1 class="hero__title">Hoop Atlas</h1>
+        <p class="hero__description">
+          Find hoops<span class="balldot balldot__1">.</span
+          ><span class="balldot balldot__2">.</span
+          ><span class="balldot balldot__3">.</span>Play ball.
+        </p>
+      </header>
+
+      <!-- Search controls -->
+      <section class="search" aria-label="Search for hoops">
+        <label class="search__label" for="court-search">Search courts</label>
+        <div class="search__controls">
+          <input
+            id="court-search"
+            class="search__input"
+            type="search"
+            placeholder="City, district or postcode"
+          />
+          <button id="search-button" class="search__button" type="button">
+            Search
+          </button>
+          <button id="clear-button" class="search__clear" type="button">
+            Clear
+          </button>
+        </div>
+      </section>
+
+      <!-- Feedback message target (aligned with search) -->
+      <div id="search-feedback"></div>
+    </div>
+
+    <!-- Grid container sitting outside page-shell -->
+    <div id="court-container" class="court-list" aria-live="polite"></div>
+
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>

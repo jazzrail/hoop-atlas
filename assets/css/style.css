@@ -1,0 +1,261 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&family=Manrope:wght@400;500;600;700;800&display=swap");
+
+@font-face {
+  font-family: "Searocks";
+  src: url("../assets/fonts/searocks-a-clean-condensed-font/Searocks TTF.ttf")
+    format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --font-heading: "Rampart One", "Bungee Tint", "Arial Black", sans-serif;
+  --font-body: "Manrope", "Arial", "Helvetica Neue", sans-serif;
+  --font-fallback: "Searocks", "Arial Narrow", "Helvetica Neue", sans-serif;
+}
+
+/* Simple reset */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body,
+h1,
+h2,
+h3,
+p,
+img,
+input,
+button {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+body {
+  font-family: var(--font-body);
+  background: linear-gradient(180deg, #f5f7ff 0%, #f1f5f9 100%);
+  color: #222;
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+.hero__title,
+.court-card__title {
+  font-family: var(--font-heading);
+  letter-spacing: 0.02em;
+  text-transform: none;
+}
+
+/* The hero and search bar stay centered at a readable desktop width. */
+.page-shell {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.hero {
+  /* Hero sits inside the shared container */
+  padding-top: 48px;
+}
+
+.hero__eyebrow {
+  display: inline-block;
+  margin: 0 0 30px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: rgba(230, 126, 34, 0.12);
+  color: #b25d00;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.hero__title {
+  color: #d04a0f;
+  font-size: clamp(3.5rem, 7.5vw, 6.6rem);
+  line-height: 0.84;
+  letter-spacing: 0.05em;
+  margin-bottom: 32px;
+  font-weight: 400;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.08);
+}
+
+.hero__title .balldot {
+  color: #d04a0f;
+  font-weight: 700;
+}
+
+.hero__description {
+  color: #1f2937;
+  font-size: clamp(1.55rem, 2.1vw, 2.2rem);
+  max-width: 34rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  line-height: 1.08;
+  margin-bottom: 0;
+}
+
+.balldot {
+  padding: 0 0.08em;
+  color: #d04a0f;
+  font-weight: 900;
+}
+
+.balldot__1 {
+  color: #d04a0f;
+}
+
+/* Search bar should sit above results */
+.search {
+  margin: 28px 0 0;
+  max-width: 680px;
+}
+
+.search__label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #374151;
+}
+
+.search__controls {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.search__input {
+  flex: 1 1 240px;
+  min-height: 48px;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  padding: 0 14px;
+  font: inherit;
+  background: white;
+}
+
+.search__button {
+  min-height: 48px;
+  padding: 0 18px;
+  border: none;
+  border-radius: 10px;
+  background: #111827;
+  color: white;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.search__clear {
+  min-height: 48px;
+  padding: 0 16px;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  background: white;
+  color: #374151;
+  font: inherit;
+  cursor: pointer;
+}
+
+.search-feedback {
+  margin: 28px 0 0;
+  padding: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #4b5563;
+}
+
+/* Cards are hidden on the landing page at first. */
+/* The results area can be wider than the hero/search so 3 cards stay readable on desktop. */
+.court-list {
+  display: none;
+  max-width: 1200px;
+  margin: 32px auto 0;
+  padding: 0 20px 32px;
+}
+
+.court-list.is-visible {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+
+@media (min-width: 700px) {
+  .court-list.is-visible {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .court-list.is-visible {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.court-card {
+  background: white;
+  border: 1px solid rgba(148, 163, 184, 0.2);
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.court-card__image {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  background-color: #ddd;
+}
+
+.court-card__content {
+  padding: 18px 16px 16px;
+}
+
+.court-card__title {
+  margin: 0 0 8px;
+  color: #111827;
+  font-size: 1.35rem;
+}
+
+.court-card__meta {
+  color: #e67e22;
+  font-weight: bold;
+  font-size: 0.9rem;
+  margin-bottom: 12px;
+}
+
+.court-card__hoops {
+  color: #555;
+  font-size: 0.95rem;
+  margin: 0 0 10px;
+}
+
+.court-card__description {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  color: #4b5563;
+}

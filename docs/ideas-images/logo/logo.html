@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wyndy Logo</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap");
+
+      .logo-text {
+        font-family: "Caveat", cursive;
+        font-size: 5rem;
+        font-weight: 700;
+        font-style: italic;
+
+        /* Uniform gradient accounting for descenders in 'y' */
+        background: linear-gradient(
+          180deg,
+          #ffffff 0%,
+          #e0f2fe 35%,
+          #38bdf8 40%,
+          #1d4ed8 100%
+        );
+
+        /* Standard and vendor-prefixed clipping */
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+        /* Dark outer outline */
+        -webkit-text-stroke: 2px #1e293b;
+
+        /* Ensures tight inline bounds for cleaner gradient mapping */
+        display: inline-block;
+        line-height: 1;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 class="logo-text">Wyndy</h1>
+  </body>
+</html>

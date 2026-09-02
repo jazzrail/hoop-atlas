@@ -1,0 +1,812 @@
+[
+  {
+    "name":"Longley Park",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S5 7JP",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Richmond Park",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S13 8LF",
+    "surface":"",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Gleadless Common Recreation Ground",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S12 2UR",
+    "surface":"",
+    "category":"Limited Half Court",
+    "markings":"No"
+  },
+  {
+    "name":"Hansworth Recreation Ground",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S13 9AT",
+    "surface":"",
+    "category":"Halfcourt",
+    "markings":"Yes"
+  },
+  {
+    "name":"Hillsborough Park",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S6 4HD",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Spider Park",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S10 4JD",
+    "surface":"",
+    "category":"Limited Half Court",
+    "markings":"No"
+  },
+  {
+    "name":"Forge Valley Sports Centre",
+    "area":"Sheffield",
+    "sub_area":"Stannington",
+    "postcode":"S6 5HG",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Firs Hill School",
+    "area":"Firshill",
+    "sub_area":"Sheffield",
+    "postcode":"S3 9AN",
+    "surface":"",
+    "category":"?",
+    "markings":"Yes"
+  },
+  {
+    "name":"High Hazels Park",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S9 4DE",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Parson Cross Park",
+    "area":"Parson Cross",
+    "sub_area":"Sheffield",
+    "postcode":"S5 8AL",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Tapton High School",
+    "area":"Crosspool",
+    "sub_area":"Sheffield",
+    "postcode":"S10 5RG",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Badger Park ",
+    "area":"Handsworth",
+    "sub_area":"Sheffield",
+    "postcode":"S13 9QA",
+    "surface":"",
+    "category":"Limited Half Court",
+    "markings":"No"
+  },
+  {
+    "name":"Brightside Recreation Ground",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S9 1BH",
+    "surface":"",
+    "category":"Halfcourt",
+    "markings":"Yes"
+  },
+  {
+    "name":"Heritage Park Community School",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S2 2RU",
+    "surface":"",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Colley Park",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S5 9AG",
+    "surface":"",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Brightside Recreation Ground",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S9 1BH",
+    "surface":"",
+    "category":"Halfcourt",
+    "markings":"Yes"
+  },
+  {
+    "name":"Heritage Park Community School",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S2 2RU",
+    "surface":"",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Colley Park",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S5 9AG",
+    "surface":"",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Dore Recreation Ground",
+    "area":"Dore",
+    "sub_area":"Sheffield",
+    "postcode":"S17 3GD",
+    "surface":"",
+    "category":"Limited Half Court",
+    "markings":"No"
+  },
+  {
+    "name":"Ecclesfield Park",
+    "area":"Ecclesfield",
+    "sub_area":"Sheffield",
+    "postcode":"S11 9QD",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Green Oak Recreation Ground",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S17 4HA",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Greenhill Park",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S8 7HN",
+    "surface":"",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Greengate Lane Primary School",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S35 3GT",
+    "surface":"",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Thorncliffe Recreation Ground",
+    "area":"High Green",
+    "sub_area":"Sheffield",
+    "postcode":"S35 3HS",
+    "surface":"",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Tinsley Green Recreation Ground",
+    "area":"Tinsley",
+    "sub_area":"Sheffield",
+    "postcode":"S9 1SG",
+    "surface":"",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Tunwell Park",
+    "area":"Ecclesfield",
+    "sub_area":"Sheffield",
+    "postcode":"S5 9FD",
+    "surface":"",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Woodhouse Recreation Ground",
+    "area":"Dronfield",
+    "sub_area":"Sheffield",
+    "postcode":"S18 8XF",
+    "surface":"",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Andover Street Court",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S3 ",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Victoria Street Court",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S3 7RZ",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Holberry Open Space",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S3 7SQ",
+    "surface":"",
+    "category":"Limited Half Court",
+    "markings":"No"
+  },
+  {
+    "name":"Deer Park",
+    "area":"Sheffield",
+    "sub_area":"Sheffield",
+    "postcode":"S6 5NN",
+    "surface":"",
+    "category":"Limited Half Court",
+    "markings":"No"
+  },
+  {
+    "name":"Archer Gate Field",
+    "area":"Loxley",
+    "sub_area":"Sheffield",
+    "postcode":"S6 6AR",
+    "surface":"",
+    "category":"Limited Half Court",
+    "markings":"No"
+  },
+  {
+    "name":"Frecheville ",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S12 4XT",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Wensley Street Open Field",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S4 8AD",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Wincobank Open Space",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S4 8AD",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Clayton Hollow Open Space",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S20 7NA",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"St Mary's Church",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S2 2PL",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Pipworth Community Primary School",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S2 1AA",
+    "surface":"",
+    "category":"?",
+    "markings":"Yes"
+  },
+  {
+    "name":"Lound Junior School",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S35 2UT",
+    "surface":"",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"St Thomas of Canturbury Catholic Primary School",
+    "area":"Sheffield",
+    "sub_area":"South Yorkshire",
+    "postcode":"S8 7TR",
+    "surface":"",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Acres Hill Primary School",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S9 4GQ",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Woodthorpe Primary School",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S13 8DD",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Fir Vale School",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S4 8GB",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Hinde House School",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S5 6AG",
+    "surface":"G",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Yewlands School",
+    "area":"Grenoside",
+    "sub_area":"Sheffield",
+    "postcode":"S35 8NN",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Chaucer Secondary School",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S5 8NH",
+    "surface":"A",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Firth Park School",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S5 0SD",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Parkwood High School",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S5 8UF",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Porter Croft Primary School",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S11 8JN",
+    "surface":"A",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Myrtle Springs School",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S2 2AL",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"King Ecgbert School",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S17 3QN",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Anns Grove Primary School",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S2 3DJ",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Walkley Primary School",
+    "area":"Walkley",
+    "sub_area":"Sheffield",
+    "postcode":"S6 2RZ",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Fox Hill Primary School",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S6 1AZ",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Spotswood Garage",
+    "area":"Gleadless Valley Estate",
+    "sub_area":"Sheffield",
+    "postcode":"S14 1LG",
+    "surface":"G",
+    "category":"Limited Half Court",
+    "markings":"No"
+  },
+  {
+    "name":"Duchess Rd Multi-Games Area",
+    "area":"Shoreham Street",
+    "sub_area":"Sheffield",
+    "postcode":"S1 4SR",
+    "surface":"G",
+    "category":"Limited Full Court",
+    "markings":""
+  },
+  {
+    "name":"Nottingham Cliff Rec Grnd",
+    "area":"Woodside",
+    "sub_area":"Sheffield",
+    "postcode":"S3 9GY",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Graves T & L Centre\/Sheff Coll",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S8 8JR",
+    "surface":"A",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Edward Street Play Area",
+    "area":"Netherthorpe",
+    "sub_area":"Sheffield",
+    "postcode":"S3 7GA",
+    "surface":"G",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Angram Bank Playing Field",
+    "area":"High Green",
+    "sub_area":"Sheffield",
+    "postcode":"S35",
+    "surface":"A",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Greenhill Bradway Yth Centre",
+    "area":"Lowedges",
+    "sub_area":"Sheffield",
+    "postcode":"S8 7HL",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Rainbow Forge School",
+    "area":"Hackenthorpe",
+    "sub_area":"Sheffield",
+    "postcode":"S12 4LQ",
+    "surface":"G",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Alport Road Playground",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S12 4RX",
+    "surface":"A",
+    "category":"Limited Half Court",
+    "markings":"No"
+  },
+  {
+    "name":"King Edward VII Upper School",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S10 2PW",
+    "surface":"P",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Stannington Park",
+    "area":"Stannington",
+    "sub_area":"Sheffield",
+    "postcode":"S6 6BX",
+    "surface":"A",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"The Rec",
+    "area":"Manor",
+    "sub_area":"Sheffield",
+    "postcode":"S2 1HP",
+    "surface":"A",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Bolehill Recreation Ground",
+    "area":"Walkley Bank",
+    "sub_area":"Sheffield",
+    "postcode":"S10 1QN",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Kelvin Flats",
+    "area":"Neepsend",
+    "sub_area":"Sheffield",
+    "postcode":"S6 3QL",
+    "surface":"A",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Middlewood Park",
+    "area":"Middlewood",
+    "sub_area":"Sheffield",
+    "postcode":"S6 1UN",
+    "surface":"A",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Mount Pleasant Park",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S7",
+    "surface":"G",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Herdings Park",
+    "area":"Gleadless",
+    "sub_area":"Sheffield",
+    "postcode":"S14 1DA",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Bluestone Primary School",
+    "area":"Norfolk Park Estate",
+    "sub_area":"Sheffield",
+    "postcode":"S2 3SF",
+    "surface":"G",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Norfolk Park",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S2 2RA",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Broomspring Centre",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S10 2FD",
+    "surface":"G",
+    "category":"Limited Half Court",
+    "markings":"No"
+  },
+  {
+    "name":"Phillimore Park",
+    "area":"Darnall",
+    "sub_area":"Sheffield",
+    "postcode":"S9 5EF",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Batemoor Recreation Ground",
+    "area":"Batemoor Road",
+    "sub_area":"Sheffield",
+    "postcode":"S8",
+    "surface":"A",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Wharncliffe Side Prim. Sch",
+    "area":"Wharncliffe Side",
+    "sub_area":"Sheffield",
+    "postcode":"S35 0DD",
+    "surface":"G",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Concord Park",
+    "area":"Shiregreen",
+    "sub_area":"Sheffield",
+    "postcode":"S5 6AA",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Broadfield Park",
+    "area":"Netheredge",
+    "sub_area":"Sheffield",
+    "postcode":"S8 0XL",
+    "surface":"P",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Millhouses Park",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S8",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"All Saints Community Centre",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S3 7EP",
+    "surface":"G",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Meersbrook Park",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S8 9FL",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Griffiths Rd Play Area",
+    "area":"High Green",
+    "sub_area":"Sheffield",
+    "postcode":"S35 3JF",
+    "surface":"G",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Reignhead Primary School",
+    "area":"Beighton",
+    "sub_area":"Sheffield",
+    "postcode":"S20 1FD",
+    "surface":"G",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"The Burton Street Project",
+    "area":"57 Burton Street",
+    "sub_area":"Sheffield",
+    "postcode":"S6 2HH",
+    "surface":"A",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Westland Road Rec Area",
+    "area":"Sheffield",
+    "sub_area":"",
+    "postcode":"S20 8EQ",
+    "surface":"A",
+    "category":"Limited Half Court",
+    "markings":"No"
+  },
+  {
+    "name":"Dore Primary School",
+    "area":"Dore",
+    "sub_area":"Sheffield",
+    "postcode":"S17 3QP",
+    "surface":"G",
+    "category":"Full Court",
+    "markings":"Yes"
+  },
+  {
+    "name":"Mather Road Playing Fields",
+    "area":"Littledale",
+    "sub_area":"Sheffield",
+    "postcode":"S9 4GN",
+    "surface":"G",
+    "category":"Limited Half Court",
+    "markings":"No"
+  },
+  {
+    "name":"Standhouse Centre",
+    "area":"Manor",
+    "sub_area":"Sheffield",
+    "postcode":"S2 1HX",
+    "surface":"G",
+    "category":"Limited Full Court",
+    "markings":"No"
+  },
+  {
+    "name":"Chelsea Park",
+    "area":"Netheredge",
+    "sub_area":"Sheffield",
+    "postcode":"S11 9BR",
+    "surface":"",
+    "category":"Halfcourt",
+    "markings":"Yes"
+  }
+]

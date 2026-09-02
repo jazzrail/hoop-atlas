@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Longley Park",
+    "city": "Sheffield",
+    "county": "South Yorkshire",
+    "postcode": "S5 7JP",
+    "surface": "Tarmac",
+    "court_type": "Limited Full Court",
+    "markings": "No",
+    "image": "longley-park.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Forest Fields",
+    "city": "Nottingham",
+    "county": "Nottinghamshire",
+    "postcode": "S7 6LB",
+
+    "surface": "Tarmac",
+    "surface_condition": "Good",
+
+    "hoops": 2,
+    "markings": true,
+
+    "court_type": "Multi Use Games Area",
+    "court_size": "Full Court",
+
+    "floodlights": false,
+    "toilets": true,
+    "cafe": true,
+    "water": null,
+    "parking": true,
+
+    "accessibility": 2,
+
+    "image": "placeholder.jpg",
+
+    "notes": "Court in good condition. Access slightly difficult."
+  }
+]
