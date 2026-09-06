@@ -8,7 +8,9 @@
     "surface": "Tarmac",
     "court_type": "Limited Full Court",
     "markings": "No",
-    "image": "longley-park.jpg"
+    "image": "longley-park.jpg",
+
+    "survey_staus": "not started"
   },
   {
     "id": 2,
@@ -21,7 +23,7 @@
     "surface_condition": "Good",
 
     "hoops": 2,
-    "markings": true,
+    "markings": "average",
 
     "court_type": "Multi Use Games Area",
     "court_size": "Full Court",
@@ -36,6 +38,39 @@
 
     "image": "placeholder.jpg",
 
-    "notes": "Court in good condition. Access slightly difficult."
+    "survey_staus": "needs_review",
+
+    "notes": "Court in good condition. Access slightly difficult. Need to reassess accesibilty, it may need to be 'poor'.  To Do - Also cafe and toilet opening - email thee LA, or cafe"
+  },
+  {
+    "id": 3,
+    "name": "Atlas Street",
+    "city": "Nottingham",
+    "address": "2 Atlas Street",
+    "county": "Nottinghamshire",
+    "postcode": "NG2 2AA",
+
+    "surface": "Tarmac",
+    "surface_condition": "Good",
+
+    "hoops": 2,
+    "markings": "poor",
+
+    "court_type": "Multi Use Games Area",
+    "court_size": "Full Court",
+
+    "floodlights": false,
+    "toilets": true,
+    "cafe": true,
+    "water": true,
+    "parking": true,
+
+    "accessibility": 1,
+
+    "image": "placeholder.jpg",
+
+    "survey_staus": "needs_review",
+
+    "notes": "Court in good condition. Multi-use-games-area, mainly used for football. The markings are poor and faded.Visited on 5 September 2026. To Do - more detail needed about what it's near"
   }
 ]
