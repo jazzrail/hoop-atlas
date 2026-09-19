@@ -108,7 +108,10 @@ function searchCourts() {
   const query = searchInput.value.trim().toLowerCase();
 
   if (!query) {
-    clearSearch();
+    container.innerHTML = "";
+    feedbackContainer.innerHTML =
+      "<p class='search-feedback'>Please enter a city, district, or postcode.</p>";
+    container.classList.remove("is-visible");
     return;
   }
 

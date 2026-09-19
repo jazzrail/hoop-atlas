@@ -1,21 +1,40 @@
 [
   {
     "id": 1,
-    "name": "Longley Park",
+    "name": "Longley park",
     "city": "Sheffield",
+    "address": "Need Address",
     "county": "South Yorkshire",
-    "postcode": "S5 7JP",
-    "surface": "Tarmac",
-    "court_type": "Limited Full Court",
-    "markings": "No",
-    "image": "longley-park.jpg",
+    "postcode": "S7 6LB",
 
-    "survey_staus": "not started"
+    "surface": "Tarmac",
+    "surface_condition": "Good",
+
+    "hoops": 2,
+    "markings": "average",
+
+    "court_type": "Multi Use Games Area",
+    "court_size": "Full Court",
+
+    "floodlights": false,
+    "toilets": true,
+    "cafe": true,
+    "water": null,
+    "parking": true,
+
+    "accessibility": 2,
+
+    "image": "placeholder.jpg",
+
+    "survey_staus": "needs_review",
+
+    "notes": "Not surveyed. Filler data only"
   },
   {
     "id": 2,
     "name": "Forest Fields",
     "city": "Nottingham",
+    "address": "Need Address",
     "county": "Nottinghamshire",
     "postcode": "S7 6LB",
 
@@ -40,7 +59,7 @@
 
     "survey_staus": "needs_review",
 
-    "notes": "Court in good condition. Access slightly difficult. Need to reassess accesibilty, it may need to be 'poor'.  To Do - Also cafe and toilet opening - email thee LA, or cafe"
+    "notes": "Not surveyed. Filler data only"
   },
   {
     "id": 3,
